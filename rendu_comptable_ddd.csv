@@ -1,0 +1,31 @@
+city,total_revenue,total_cost,most_sold_product,total_orders,avg_revenue_per_order,difference,margin,total_customers,most_profitable_product,most_profitable_product_sales
+São Paulo,68884.34$,60138.13$,bed_bath_table,429,160.57,8746.21$,12.7%,415,computers_accessories,36
+Rio De Janeiro,501261.5$,430460.6$,bed_bath_table,2750,182.28,70800.9$,14.12%,2654,furniture_decor,252
+Belo Horizonte,338948.19$,297940.14$,health_beauty,445,761.68,41008.05$,12.1%,433,furniture_decor,126
+Brasília,430499.43$,364115.16$,health_beauty,2116,203.45,66384.27$,15.42%,2056,computers_accessories,168
+Santo André,267039.2$,221634.85$,bed_bath_table,1429,186.87,45404.35$,17.0%,1386,furniture_decor,138
+Curitiba,150704.76$,132418.86$,sports_leisure,315,478.43,18285.9$,12.13%,310,sports_leisure,74
+Campinas,70721.49$,60720.98$,sports_leisure,423,167.19,10000.51$,14.14%,414,furniture_decor,44
+Porto Alegre,329321.54$,252659.54$,computers_accessories,1510,218.09,76662.0$,23.28%,1455,watches_gifts,113
+Belém,124513.36$,102405.55$,computers_accessories,565,220.38,22107.81$,17.76%,543,furniture_decor,55
+Salvador,150971.54$,126829.32$,watches_gifts,650,232.26,24142.22$,15.99%,640,health_beauty,79
+Guarulhos,212702.97$,133400.6$,health_beauty,687,309.61,79302.37$,37.28%,667,auto,40
+São Bernardo Do Campo,205350.25$,175846.45$,bed_bath_table,1178,174.32,29503.8$,14.37%,1143,housewares,102
+Niterói,90619.97$,77709.55$,bed_bath_table,426,212.72,12910.42$,14.25%,414,housewares,29
+Osasco,122555.04$,99367.82$,bed_bath_table,560,218.85,23187.22$,18.92%,543,computers_accessories,48
+Goiânia,175199.18$,154573.29$,bed_bath_table,845,207.34,20625.89$,11.77%,807,computers_accessories,95
+Santos,89286.89$,72804.23$,bed_bath_table,439,203.39,16482.66$,18.46%,429,furniture_decor,49
+São José Dos Campos,119307.03$,98484.94$,health_beauty,742,160.79,20822.09$,17.45%,713,garden_tools,43
+Fortaleza,315729.22$,229976.72$,bed_bath_table,1372,230.12,85752.5$,27.16%,1320,telephony,79
+Campo Grande,104161.86$,93634.62$,bed_bath_table,311,334.93,10527.24$,10.11%,292,bed_bath_table,112
+Praia Grande,129954.76$,112814.06$,health_beauty,612,212.34,17140.7$,13.19%,589,furniture_decor,48
+Sorocaba,93547.75$,77442.42$,bed_bath_table,508,184.15,16105.33$,17.22%,487,bed_bath_table,85
+Recife,1566591.49$,1201226.55$,bed_bath_table,6834,229.23,365364.94$,23.32%,6576,fixed_telephony,24
+Jundiaí,289139.66$,235547.93$,health_beauty,1238,233.55,53591.73$,18.53%,1202,computers_accessories,104
+Florianópolis,244596.76$,216000.8$,health_beauty,793,308.44,28595.96$,11.69%,766,bed_bath_table,178
+Ribeirão Preto,150659.3$,115695.83$,bed_bath_table,706,213.4,34963.47$,23.21%,686,garden_tools,37
+São Carlos,103544.08$,91381.77$,furniture_decor,624,165.94,12162.31$,11.75%,602,furniture_decor,76
+Nova Iguaçu,150027.88$,123841.25$,housewares,928,161.67,26186.63$,17.45%,898,computers_accessories,70
+Contagem,97454.04$,73052.36$,bed_bath_table,238,409.47,24401.68$,25.04%,228,furniture_decor,68
+Barueri,110244.5$,93579.2$,health_beauty,686,160.71,16665.3$,15.12%,661,health_beauty,79
+Juiz De Fora,2839903.47$,2275610.6$,bed_bath_table,15402,184.39,564292.87$,19.87%,14865,computers_accessories,1251
